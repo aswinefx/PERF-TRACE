@@ -110,3 +110,7 @@ python tool_perf_trace.py trace_dump.bin output.json --multipliers "1:8,2:8,3:15
 
 ### Visualize
 Once the script successfully completes, navigate to [Google Perfetto UI](https://ui.perfetto.dev/) in Google Chrome or Edge, click "Open Trace file", and load the generated `output.json`. You will instantly see fully charted, zoomed timeline blocks representing your baremetal behavior.
+
+###Result
+<img width="1613" height="430" alt="image" src="https://github.com/user-attachments/assets/3e869d7a-3680-40c8-9b8d-d60b228b55f3" />
+
